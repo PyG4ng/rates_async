@@ -1,0 +1,12 @@
+aiogram==3.7.0
+asyncpg==0.29.0
+aiosocks==0.2.6
+aiohttp==3.9.5
+requests==2.32.3
+loguru==0.7.2
+psycopg2-binary==2.9.9
+python-dotenv==1.0.1
+PySocks==1.7.1
+ujson==5.10.0
+websocket-client==1.8.0
+SQLAlchemy==1.4.48
